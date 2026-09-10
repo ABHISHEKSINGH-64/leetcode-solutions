@@ -1,15 +1,9 @@
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        map = {}
-
+        hmap = {}
         for i in range(len(nums)):
-            needed = target - nums[i]
-
-            if needed in map:
-                return [map[needed], i]
-
-            map[nums[i]] = i
-
-        return []
-
+            if target - nums[i] in hmap:
+                return [hmap[target - nums[i]], i]
+            else: 
+                hmap[nums[i]] = i 
             
