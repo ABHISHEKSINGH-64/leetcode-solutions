@@ -1,7 +1,7 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
 
-        if len(s) != len(t):
+        while len(s) != len(t):
             return False
 
         freq = {}
