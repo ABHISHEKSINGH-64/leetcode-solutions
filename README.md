@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -66,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0268-missing-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Prefix Sum
 |  |
@@ -86,8 +90,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
