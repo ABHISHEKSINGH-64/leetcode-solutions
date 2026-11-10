@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Prefix Sum
 |  |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/ABHISHEKSINGH-64/leetcode-solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
